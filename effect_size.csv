@@ -1,0 +1,11 @@
+Group A,Group A - Proportion,Group A - Sample Size,Group B,Group B - Proportion,Group B - Sample Size,Effect Strength,Cohen's h,Lower Bound,Upper Bound,Summary
+Yellow,0.6,1000,Pink,0.1,100,Large,1.13,1,1.26,"Yellow had a meaningfully higher score than Pink [Cohen's h = 1.13, 95% Confidence Interval (1.00, 1.26)]."
+Blue,0.4,500,Pink,0.1,100,Medium,0.73,0.58,0.87,"Blue had a meaningfully higher score than Pink [Cohen's h = 0.73, 95% Confidence Interval (0.58, 0.87)]."
+Yellow,0.6,1000,Green,0.25,300,Medium,0.72,0.61,0.84,"Yellow had a meaningfully higher score than Green [Cohen's h = 0.72, 95% Confidence Interval (0.61, 0.84)]."
+Yellow,0.6,1000,Red,0.3,700,Medium,0.61,0.52,0.7,"Yellow had a meaningfully higher score than Red [Cohen's h = 0.61, 95% Confidence Interval (0.52, 0.70)]."
+Red,0.3,700,Pink,0.1,100,Medium,0.52,0.38,0.65,"Red had a meaningfully higher score than Pink [Cohen's h = 0.52, 95% Confidence Interval (0.38, 0.65)]."
+Yellow,0.6,1000,Blue,0.4,500,Small,0.4,0.3,0.51,"Yellow had a meaningfully higher score than Blue [Cohen's h = 0.40, 95% Confidence Interval (0.30, 0.51)]."
+Green,0.25,300,Pink,0.1,100,Small,0.4,0.25,0.56,"Green had a meaningfully higher score than Pink [Cohen's h = 0.40, 95% Confidence Interval (0.25, 0.56)]."
+Blue,0.4,500,Green,0.25,300,Small,0.32,0.19,0.45,"Blue had a meaningfully higher score than Green [Cohen's h = 0.32, 95% Confidence Interval (0.19, 0.45)]."
+Blue,0.4,500,Red,0.3,700,Small,0.21,0.1,0.32,"Blue had a meaningfully higher score than Red [Cohen's h = 0.21, 95% Confidence Interval (0.10, 0.32)]."
+Red,0.3,700,Green,0.25,300,Trivial,0.11,-0.01,0.23,There was no meaningful difference in score between Red and Green.
